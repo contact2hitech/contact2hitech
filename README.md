@@ -1,85 +1,129 @@
-# Hitesh Patel
+<h1 align="center">Hitesh Patel</h1>
 
-### AI Systems Builder · Institutional AI Architect · Educator · Founder, Hi-Tech AI Solutions
+<p align="center">
+  <strong>AI Systems Builder &nbsp;·&nbsp; Institutional AI Architect &nbsp;·&nbsp; Educator &nbsp;·&nbsp; Founder, Hi-Tech AI Solutions</strong>
+</p>
 
-**Building intelligent systems that solve real-world problems.**
+<p align="center">
+  <em>"Building AI-native systems that turn real-world problems into intelligent, useful, and scalable solutions."</em>
+</p>
 
-I am Hitesh Patel, an educator, technologist, and AI-focused systems builder working at the intersection of **Artificial Intelligence, software engineering, education, and institutional digital transformation**.
-
-My journey has evolved from software development and computer education to building AI-powered applications, intelligent workflows, and connected software ecosystems.
-
-Rather than exploring AI only as a technology, I am focused on applying it to real problems, building practical solutions, and learning through implementation.
-
-**My mission:** Turn real-world problems into intelligent, useful, and scalable systems.
-
-🌐 **Explore:** [Hi-Tech AI Solutions & Services](https://hi-tech-ai-solutions.github.io/) · [GitHub Projects](https://github.com/contact2hitech)
-
----
-
-## 🧭 What I Do
-
-* **AI Systems Engineering** — Exploring and building AI-powered applications and intelligent workflows.
-* **Institutional AI** — Connecting academic operations, institutional data, and AI-driven assistance.
-* **Full-Stack Development** — Designing modern web applications, APIs, and data-driven platforms.
-* **AI Agent Workflows** — Experimenting with AI agents, orchestration, and AI-assisted software development.
-* **Knowledge Engineering** — Building structured, documentation-first foundations for reliable AI systems.
-* **Product Innovation** — Turning operational challenges into reusable software products.
-
-My particular interest is **AI for Education and Institutional Intelligence**: making complex academic and administrative workflows simpler, smarter, and more connected.
+<p align="center">
+  <a href="https://hi-tech-ai-solutions.github.io/">🌐 Hi-Tech AI Solutions & Services</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/contact2hitech">💻 GitHub Profile</a>
+</p>
 
 ---
 
-## 🚀 Hi-Tech AI Solutions & Services
+## About
 
-[Hi-Tech AI Solutions & Services](https://hi-tech-ai-solutions.github.io/) is my technology and innovation initiative focused on practical AI solutions, intelligent automation, and software products.
+I am Hitesh Patel — an educator, software developer, and AI-focused systems builder working at the intersection of **Artificial Intelligence, software engineering, education technology, and institutional digital transformation**.
 
-I am working toward an ecosystem in which AI, applications, data, and institutional workflows work together rather than remain isolated.
+My background combines over two decades of experience in computer education, academic operations, and software development. Today, that experience is the foundation for building AI-native products, intelligent institutional workflows, and connected software ecosystems under **Hi-Tech AI Solutions & Services**.
 
-### Flagship initiative: JyotOS
+My primary long-term initiative is **JyotOS** — an AI-native Institutional Operating System designed to unify academic, administrative, and student-facing services under a single intelligent platform.
 
-**JyotOS — An AI-native Institutional Operating System**
+I build because real institutional problems deserve real, working solutions — not prototypes that stop at a demo.
 
-JyotOS is my long-term vision for connecting academic, administrative, communication, analytics, and student services into a unified intelligent ecosystem.
+---
 
-Its foundational concepts include:
+## What I Build
 
-* **AAI — Academic Artificial Intelligence:** The intelligence layer designed to support knowledge retrieval, analytics, automation, and intelligent assistance.
-* **Ask Jyot:** A conversational assistant for interacting with institutional knowledge, services, and workflows.
-* **Hermes:** An AI architecture and management concept for helping design, govern, and evolve the JyotOS ecosystem.
+| Domain | Focus |
+|---|---|
+| **AI Systems Engineering** | AI-powered applications, intelligent workflows, agentic pipelines |
+| **Institutional AI** | Academic intelligence layers, data-driven institutional operations |
+| **Full-Stack Development** | Modern web applications, APIs, and data-driven platforms |
+| **Education Technology** | Student support, admissions, digital identity, academic analytics |
+| **Knowledge Engineering** | Documentation-first, structured foundations for reliable AI systems |
+| **Product Innovation** | Turning operational challenges into reusable, scalable software |
 
-The guiding idea is simple:
+My particular focus is **AI for Education and Institutional Intelligence**: making complex academic and administrative workflows smarter, simpler, and more connected.
+
+---
+
+## Hi-Tech AI Solutions & Services
+
+[**Hi-Tech AI Solutions & Services**](https://hi-tech-ai-solutions.github.io/) is my technology and innovation initiative.
+
+For over 20 years, Hi-Tech has been a trusted name in technology education and consulting. It has since evolved into a focused effort to engineer AI-based solutions, intelligent automation systems, and institutional operating platforms.
+
+The mission is direct: **We don't just build software. We build intelligent solutions.**
+
+The product ecosystem centres on the **JyotOS Suite** and spans academic operations, student identity, event management, staff coordination, and institutional analytics.
+
+→ [Explore the Hi-Tech AI Solutions website](https://hi-tech-ai-solutions.github.io/)
+
+---
+
+## JyotOS — Flagship Vision
+
+**JyotOS** is my long-term vision for an AI-native Institutional Operating System — a unified platform that connects academic, administrative, communication, analytics, and student services into a single, intelligent ecosystem.
+
+### Core Concepts
+
+| Concept | Description |
+|---|---|
+| **AAI — Academic Artificial Intelligence** | The intelligence layer: knowledge retrieval, analytics, automation, and AI-assisted decision support |
+| **Ask Jyot** | Conversational institutional assistant for interacting with campus knowledge, services, and workflows |
+| **Hermes** | AI architecture and management concept for governing and evolving the JyotOS ecosystem |
 
 > **One Campus. One Intelligence.**
 
-The broader ambition is to develop reusable institutional technology that can evolve beyond a single campus.
-
-🌐 [Explore Hi-Tech AI Solutions](https://hi-tech-ai-solutions.github.io/)
+JyotOS is an active, long-term development initiative. It is not a released product. The ambition is to develop reusable institutional technology that can evolve beyond a single campus.
 
 ---
 
-## 🧩 Projects & Areas of Innovation
+## Selected Projects
 
-My work spans several connected projects and product concepts.
+The following projects represent different aspects of the JyotOS ecosystem and the broader Hi-Tech AI Solutions portfolio. Their implementation maturity, availability, and development status vary by project.
 
-| Project                 | Focus                                                  |
-| ----------------------- | ------------------------------------------------------ |
-| **JyotOS**              | AI-native institutional operating system               |
-| **ClassPulse**          | Academic workload, timetable, and attendance analytics |
-| **ScholarCard AI**      | Student digital identity and verification              |
-| **StaffBridge**         | Staff onboarding and identity workflows                |
-| **jyotAssist AI**       | Conversational student support and WhatsApp assistance |
-| **JyotForge**           | Local-first academic knowledge ingestion               |
-| **JyotQuest**           | Gamified assessment and student engagement             |
-| **EventOS**             | Academic event workflows and event operations          |
-| **Admission Analytics** | Data-driven admission monitoring and decision support  |
-
-These projects represent different aspects of my broader interest in connected institutional systems. Their implementation and maturity vary by project.
+### JyotOS Platform *(Active Development — Vision)*
+An AI-native Institutional Operating System integrating academic workflows, faculty governance, student lifecycles, and institutional intelligence. The overarching system that all other JyotOS modules contribute to.
 
 ---
 
-## 🛠️ Technology & Engineering
+### ClassPulse *(Under Development)*
+Academic workload, timetable reconciliation, and attendance analytics for institutional environments. The website references live deployment work reconciling thousands of lecture logs across faculty members. Architecture: Next.js / React, Supabase, AI-assisted analytics.
 
-My development work and learning span the following technologies and engineering practices.
+---
+
+### ScholarCard AI *(Concept — Under Development)*
+Next-generation student digital identity, verification, and academic credentialing platform. Designed to provide secure, intelligent student identity management within institutional environments.
+
+---
+
+### jyotAssist AI *(Concept — Under Development)*
+Conversational AI assistant delivering contextual campus guidance, workflow assistance, and institutional intelligence. Explores WhatsApp Cloud API and conversational AI for student support.
+
+---
+
+### StaffBridge *(Concept — Under Development)*
+Staff administration, institutional attendance governance, and human capital coordination. Focuses on onboarding workflows, identity management, and data governance for institutional staff.
+
+---
+
+### EventOS *(Concept — Under Development)*
+End-to-end institutional event coordination, real-time participant management, and automated ticketing. Includes QR-based gate management for academic and institutional events.
+
+---
+
+### Admission Analytics *(Exploration)*
+Data-driven monitoring and decision support for institutional admissions processes. Focused on making admissions data observable, actionable, and connected.
+
+---
+
+### NetSage *(Released — Open Source)*
+A Streamlit dashboard for visualising internet usage from CSV logs, with filters, statistics, and interactive charts. A practical data exploration tool.
+
+→ [Live App](https://netsage.streamlit.app/) · [Repository](https://github.com/contact2hitech/NetSage)
+
+---
+
+## Technology & Engineering
+
+Technologies and engineering practices actively used in my development work.
 
 **Languages & Application Development**
 
@@ -89,124 +133,105 @@ My development work and learning span the following technologies and engineering
 
 `PostgreSQL` `Supabase` `SQL` `REST APIs` `Webhooks`
 
-**Deployment & Development Tools**
+**AI & Intelligence**
 
-`Git` `GitHub` `Vercel` `Cloudflare` `Streamlit`
+`Generative AI` `LLMs` `AI Agents` `AI Orchestration` `Knowledge Retrieval` `LangChain` `AI-Assisted Development`
 
-**Artificial Intelligence**
+**Deployment & Tools**
 
-`Generative AI` `LLMs` `AI Agents` `AI Orchestration` `Knowledge Retrieval` `AI-Assisted Development`
+`Git` `GitHub` `Vercel` `Cloudflare` `Streamlit` `Google Colab`
 
 **Engineering Practices**
 
-`API-First` `Documentation-First` `Modular Architecture` `Data Governance` `Access Control` `Audit Logging`
+`API-First Design` `Documentation-First` `Modular Architecture` `Data Governance` `Access Control` `Audit Logging`
 
-I continue to expand this toolkit according to the problems I am solving. I value practical understanding, maintainable implementations, and working systems over collecting technology badges.
-
----
-
-## 🏗️ How I Approach Building Systems
-
-I believe meaningful software starts with understanding the problem—not choosing a framework.
-
-My approach is built around a simple cycle:
-
-1. **Understand** the real-world problem and the people affected.
-2. **Discover** the existing workflows, data, and constraints.
-3. **Design** the architecture, interfaces, and integration points.
-4. **Build** a practical, testable solution.
-5. **Integrate** AI where it creates measurable value.
-6. **Validate** correctness, security, usability, and reliability.
-7. **Document** decisions and preserve a clear source of truth.
-8. **Improve** through feedback and real-world usage.
-
-My preferred principles are:
-
-* **AI-first:** Consider intelligent capabilities during system design.
-* **Human-centric:** Build technology that helps people work and learn better.
-* **Documentation-first:** Treat documentation as part of the engineering process.
-* **API-first:** Design for interoperability and reuse.
-* **Data-conscious:** Build on reliable data and clearly defined contracts.
-* **Security-conscious:** Respect privacy, permissions, and accountability.
-* **Evidence-driven:** Measure outcomes rather than relying on impressive claims.
+I value practical understanding and working systems over collecting technology badges. This toolkit continues to grow with the problems I am solving.
 
 ---
 
-## 🎓 Education Meets Artificial Intelligence
+## Education & Institutional AI
 
-My experience in computer education and academic environments has shaped the problems I want to solve.
+My experience in computer education and academic environments has shaped the problems I care about solving.
 
-I am especially interested in how AI can improve:
+I am focused on how AI can meaningfully improve:
 
-* Student support and academic guidance
-* Admissions and student onboarding
-* Academic and faculty analytics
-* Institutional knowledge management
-* Administrative workflows
-* Digital identity and verification
-* Communication and workflow automation
-* Decision support for educational leadership
+- Student support, academic guidance, and institutional communication
+- Admissions workflows and student onboarding
+- Academic, faculty, and operational analytics
+- Institutional knowledge management and retrieval
+- Administrative workflow automation
+- Digital identity, verification, and credentialing
+- Decision support for educational leadership
 
-I see education as more than a domain in which software can be deployed. It is an environment where real operational experience can help shape better technology.
+Education is not simply a domain where software gets deployed. It is an environment shaped by real operational experience — experience that directly informs how better technology gets designed.
 
-**The objective is not to replace people. It is to reduce friction, improve decisions, and create better experiences.**
-
----
-
-## 🧠 What I Am Exploring
-
-My current areas of interest include:
-
-* Generative and agentic AI
-* AI agents and orchestration
-* AI-native software architecture
-* Local-first and privacy-conscious AI
-* Knowledge engineering and retrieval systems
-* AI-assisted development workflows
-* Institutional intelligence
-* Intelligent automation
-* Reusable AI-powered SaaS products
-
-I believe the best way to understand emerging technology is to combine continuous learning with disciplined experimentation and real-world implementation.
+> **The goal is not to replace people. It is to reduce friction, improve decisions, and create better experiences.**
 
 ---
 
-## 🌱 My Journey
+## Engineering Philosophy
 
-**Software Development → Computer Education → Academic Technology → Digital Transformation → AI Systems Building**
+I believe meaningful software starts with understanding the problem — not choosing a framework.
 
-My academic background and technology journey are not separate stories. They reinforce one another.
+**My approach:**
 
-Education has exposed me to practical institutional challenges. Software engineering provides the tools to address them. AI opens new possibilities for connecting information, automating workflows, and creating more intelligent systems.
+1. **Understand** the real-world problem and the people it affects
+2. **Discover** existing workflows, data, and constraints
+3. **Design** architecture, interfaces, and integration points
+4. **Build** a practical, testable solution
+5. **Integrate** AI where it creates measurable value
+6. **Validate** correctness, security, usability, and reliability
+7. **Document** decisions and preserve a clear source of truth
+8. **Improve** through feedback and real-world usage
 
-That combination defines the direction I am pursuing today.
+**Guiding principles:**
+
+- **AI-first** — Consider intelligent capabilities during system design
+- **Human-centric** — Build technology that helps people work and learn better
+- **Documentation-first** — Treat documentation as part of engineering
+- **API-first** — Design for interoperability and reuse
+- **Data-conscious** — Build on reliable data and clearly defined contracts
+- **Security-conscious** — Respect privacy, permissions, and accountability
+- **Evidence-driven** — Measure outcomes rather than rely on impressive claims
 
 ---
 
-## 🔭 The Long-Term Vision
+## Current Areas of Exploration
 
-I am working toward a future where AI is not simply another feature inside an application, but a connected intelligence layer that helps systems understand context, support decisions, and coordinate workflows.
-
-Through Hi-Tech AI Solutions and the JyotOS ecosystem, my ambition is to turn proven solutions to real institutional problems into reusable, maintainable, and scalable products.
-
-**Understand the problem. Build the system. Integrate intelligence. Create impact.**
+- Generative and agentic AI — multi-agent orchestration, autonomous workflows
+- AI-native software architecture and system design
+- Local-first and privacy-conscious AI implementations
+- Knowledge engineering and intelligent retrieval systems
+- Institutional intelligence layers for education and operations
+- AI-assisted development workflows and tooling
+- Reusable AI-powered SaaS products for institutional markets
 
 ---
 
-## 🤝 Connect & Collaborate
+## Professional Journey
 
-I welcome conversations and collaborations around:
+**Computer Education → Software Development → Academic Technology → Digital Transformation → AI Systems Building**
 
-* AI for Education
-* Institutional AI and digital transformation
-* AI agents and intelligent automation
-* Full-stack application engineering
-* AI-native product development
-* Knowledge systems and software architecture
+My academic background and technology journey are not separate stories — they reinforce one another.
 
-🌐 **Hi-Tech AI Solutions:** https://hi-tech-ai-solutions.github.io/
+Education has exposed me to practical institutional challenges. Software engineering provides the tools to address them. AI opens new possibilities for connecting information, automating workflows, and building more intelligent systems.
 
-💻 **GitHub:** https://github.com/contact2hitech
+That combination defines the direction I am pursuing today through Hi-Tech AI Solutions and the JyotOS ecosystem.
+
+---
+
+## Connect & Collaborate
+
+I welcome conversations around:
+
+- AI for Education and institutional technology
+- AI agents, intelligent automation, and AI-native product development
+- Full-stack application engineering and system architecture
+- Knowledge systems and documentation-first engineering
+
+**Hi-Tech AI Solutions & Services:** [https://hi-tech-ai-solutions.github.io/](https://hi-tech-ai-solutions.github.io/)
+
+**GitHub:** [https://github.com/contact2hitech](https://github.com/contact2hitech)
 
 If you are building practical AI solutions or exploring how AI can solve real-world problems, let's connect.
 
@@ -214,6 +239,6 @@ If you are building practical AI solutions or exploring how AI can solve real-wo
 
 <p align="center">
   <strong>Hitesh Patel</strong><br>
-  AI Systems Builder · Institutional AI Architect · Educator<br><br>
+  AI Systems Builder &nbsp;·&nbsp; Institutional AI Architect &nbsp;·&nbsp; Educator &nbsp;·&nbsp; Founder, Hi-Tech AI Solutions<br><br>
   <em>Learning continuously. Building intelligently. Solving real problems.</em>
 </p>
